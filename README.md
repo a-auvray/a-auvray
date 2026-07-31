@@ -11,7 +11,7 @@ class Developer:
     def current_goal(self):
         return "Building robust full-stack solutions and preparing for my career transition."
 
-        🚀 About Me
+🚀 About Me
 💻 Focus: Self-taught developer building concrete tools, modular architectures, and clean backend systems.
 
 🏋️‍♂️ Mindset: Obsessed with continuous progression, optimization, and discipline (both in code and in the gym).
