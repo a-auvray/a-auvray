@@ -1,30 +1,34 @@
-Hello world ! 
+# Hi there, I'm Antoine 👋
 
-Je suis Antoine,
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Antoine"
+        self.role = "Python & C# Developer in training"
+        self.location = "Normandy, France"
+        self.focus = ["Software Architecture", "REST APIs", "Data Management", "Performance Optimization"]
+        
+    def current_goal(self):
+        return "Building robust full-stack solutions and preparing for my career transition."
 
-Développeur Python en reconversion, passionné par la création d'outils concrets, la logique applicative et l'optimisation.
+        🚀 About Me
+💻 Focus: Self-taught developer building concrete tools, modular architectures, and clean backend systems.
 
----
+🏋️‍♂️ Mindset: Obsessed with continuous progression, optimization, and discipline (both in code and in the gym).
 
-### 🚀 Ce sur quoi je travaille en ce moment :
-- 🐍 **Projets Python** : Développement d'applications modulaires (architecture JSON, gestion de données).
-- 🛠️ **Outils & System** : Automation, scripts utilitaires et manipulation d'APIs REST.
+🛠️ Current Projects: Building modular Python applications with JSON storage, expanding into FastAPI REST backends, and integrating React frontends.
 
----
+🛠️ Tech Stack & Tools
+Languages & Backend
 
-### 🛠️ Compétences & Technologies :
+Frontend & Dev Environment
 
-**Langages & Core :**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+🔭 Featured Projects
+🏋️ Project-SL (Streetlifting / Powerlifting Tracker)
+Application modulaire de suivi de performances sportives avec calcul automatique des charges (1RM), gestion de profils utilisateur et persistance de données.
 
-**Outils & Environnement :**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Backend: Python + FastAPI (Architecture d'API REST)
 
----
+Frontend: React (Vite)
 
-### 🔭 Projets :
-
-* **[Projet Street Lifting]** : Application Python modulaire permettant le suivi d'entraînement, le calcul de charges et la gestion de profils via sauvegarde JSON.
+Fonctionnalités: Calculs automatiques, gestion des PRs, historiques de séances, export JSON.
