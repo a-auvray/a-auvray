@@ -6,10 +6,8 @@
 
 ### ⚡ Quick Overview
 
-- 🚀 **Reconversion Dev :** Specialisé Python, C# et développement backend.
-- 🛠️ **Architecture :** Conception d'outils applicatifs concrets & APIs REST.
-- 🏋️‍♂️ **Mindset :** Rigueur, optimisation et discipline (en code comme en salle).
-- 📍 **Localisation :** Normandie, France
+- 🚀 **Reconversion Dev :** Apprentissage Python et développement web.
+- 🛠️ **Architecture :** Conception d'outils applicatifs concrets & site web.
 
 ---
 
